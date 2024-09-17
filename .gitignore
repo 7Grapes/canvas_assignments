@@ -1,0 +1,8 @@
+# put my api key in here
+.env
+#
+# ignore the .venv directory
+
+venv/
+
+
